@@ -1,5 +1,4 @@
 ratio = open('ratio.txt','r')
-print ('\ttest texi program')
 print (ratio.read())
 amount = 0
 distance = float(input('Enter Distance : '))
@@ -25,4 +24,5 @@ else:
     distance -= 50
     amount = 190.5 
     amount += distance*5
-print ('amount = %.2f Bath'%(amount))
+print ('amount = %.2f Bath\n'%(amount))
+print ('Thank you for services')
