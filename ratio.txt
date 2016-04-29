@@ -1,0 +1,8 @@
+    amount texi ratio
+first km        35  Bath
+2 - 5  km       2   Bath/km
+6 - 10 km       2.5 Bath/km
+11 - 20 km      3   Bath/km
+21 - 50 km      3.5 Bath/km
+since 51 km up  5   Bath/km 
+
